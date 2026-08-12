@@ -1,6 +1,11 @@
-# Hi there 👋
-## Testing
-### Labs
+# Alex MyCC Github👋
+        ## Certifications here
+        ### Labs will be next here
+# This is how It's done
+        # Relevant experience from other spaces
+# A resume doesn't hurt
+
+# Volunteer work comes in handy - always give back
 <!--
 **AlexMyCC/AlexMyCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
