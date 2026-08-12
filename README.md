@@ -4,8 +4,9 @@
 # This is how It's done
         # Relevant experience from other spaces
 # A resume doesn't hurt
-
+        # A PDF is the best
 # Volunteer work comes in handy - always give back
+        # Even helping your relatives counts
 <!--
 **AlexMyCC/AlexMyCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
