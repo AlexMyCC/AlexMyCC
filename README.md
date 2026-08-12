@@ -1,5 +1,5 @@
 # Alex MyCC Github👋
-        ## Certifications here
+        ## Certifications [here]https://github.com/AlexMyCC/AlexMyCC/edit/main/README.md
         ### Labs will be next here
 # This is how It's done
         # Relevant experience from other spaces
@@ -7,11 +7,13 @@
         # A PDF is the best
 # Volunteer work comes in handy - always give back
         # Even helping your relatives counts
+
 <!--
 **AlexMyCC/AlexMyCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
